@@ -1,2 +1,7 @@
-# -Big-Number-Calculator-
+# Big Number Calculator
 Designing Big Number Calculator using linked list in C++
+According to https://www.calculator.net/big-number-calculator.html
+Most scientific and graphing calculators can only display possibly up to 10 decimal places of accuracy. While this is enough in most instances of everyday use, it can be fairly limiting for applications where higher standards of accuracy are necessary. Hence the existence of big number calculators such as the one above, that can provide far higher levels of accuracy. Big numbers are more likely to be used in fields such as cosmology, astronomy, mathematics, cryptography, and statistical mechanics.
+Some big numbers that people are exposed to in everyday life include the number of bits on a computer's hard disk, the number of cells and neuronal connections in the body, Avogadro's constant, the estimated number of atoms in the observable universe, and combinatorial processes.
+In some cases, the numbers worked with are so large that special notations such as Knuth's up-arrow notation, the Conway chained arrow notation, and Steinhaus-Moser notation were conceived. Nevertheless, there are certainly scientific uses for big number calculators today, and even if a person may not have any need to use one, it can certainly be entertaining to satiate one's curiosity of what 10,000 factorial looks like on a screen.
+Using this calculator, you can do four basic mathematical operations on big numbers.
